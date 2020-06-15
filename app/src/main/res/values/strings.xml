@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voice Works</string>
+    <string name="tts">Text-to-Speech</string>
+    <string name="tts_hint">Enter text</string>
+    <string name="speech">Convert to Speech</string>
+    <string name="speech_error">You have to enter a text</string>
+    <string name="stt">Speech-to-Text</string>
+</resources>
